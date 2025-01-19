@@ -1,0 +1,5 @@
+train: C:\Users\izebr\Elis\train
+val: C:\Users\izebr\Elis\val
+
+nc: 1
+names: ["stone"]
