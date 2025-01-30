@@ -1,7 +1,7 @@
 To launch this do:
     1) Open Aconda Promt!!!
     2) >>>cd Elis
-    3) >>>conda activate yolov11_custom
+    3) >>>conda activate Elis
     4) >>>python launch.py
 
     Thats all!
